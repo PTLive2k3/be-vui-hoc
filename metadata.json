@@ -1,0 +1,7 @@
+{
+  "name": "Bé Vui Học - Ứng dụng học tập lớp 1",
+  "description": "Ứng dụng học Toán và Tiếng Việt cho trẻ lớp 1 với lộ trình bài bản, theo dõi tiến độ và trợ lý AI thông minh.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
